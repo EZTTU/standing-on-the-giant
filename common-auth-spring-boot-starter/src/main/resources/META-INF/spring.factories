@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.cuit.echo.seon.auth.autoconfigure.WebAutoConfiguration

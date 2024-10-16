@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.cuit.echo.seon.web.autoconfigure.RedisTemplateAutoConfiguration,\
+org.cuit.echo.seon.web.autoconfigure.SpringContextAutoConfiguration,\
+org.cuit.echo.seon.web.autoconfigure.WebAutoConfiguration
