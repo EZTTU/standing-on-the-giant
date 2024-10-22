@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.cuit.echo.seon</groupId>
         <artifactId>standing-on-the-giant</artifactId>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
 
     <artifactId>common-web-spring-boot-starter</artifactId>
